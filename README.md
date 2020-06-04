@@ -1,7 +1,7 @@
 # Lab: Class 19: Automation
 
 ## Open Git Pull Requests  
-
+  [https://github.com/joseph-zabaleta/automation/pull/1](https://github.com/joseph-zabaleta/automation/pull/1)  
 
 ## Overview  
 A colleague has abruptly left the team to pursue a career as a novelist.
@@ -15,19 +15,13 @@ Unfortunately it’s mixed in with a bunch of useless notes.
 Your job is to find the needles in the haystack.
 
 ## Feature Tasks and Requirements  
-- [ ] Given a set of text documents, find and collect all email addresses and phone numbers.  
+- [x] Given a set of text documents, find and collect all email addresses and phone numbers.  
 - Phone numbers may be in various formats.
   - (xxx) yyy-zzzz, yyy-zzzz, xxx-yyy-zzzz, etc.  
   - phone numbers with missing area code should presume 206
   - phone numbers should be stored in xxx-yyy-zzzz format.
-- [ ] Once emails and phone numbers are found they should be stored in two separate documents.
-- [ ] The information should be sorted in ascending order.
-
-## Implementation Notes:  
-
-
-## User Acceptance Tests  
-
+- [x] Once emails and phone numbers are found they should be stored in two separate documents.
+- [x] The information should be sorted in ascending order.
 
 ## Dependencies  
 - poetry  
@@ -45,8 +39,10 @@ Your job is to find the needles in the haystack.
 This project is under the MIT License.
 
 ## Acknowledgements / Resources  
-- none
+- Fakey.py was imported from Demo file from class repo
 
 ## Version History  
-- 1.0.0 20200603  
+- 1.0.0 20200604  
     - Initial files created.  
+- 1.0.1 20200604  
+    - ACP for submission
