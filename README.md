@@ -1,7 +1,7 @@
 # Lab: Class 19: Automation
 
 ## Open Git Pull Requests  
-
+  [https://github.com/joseph-zabaleta/automation/pull/1](https://github.com/joseph-zabaleta/automation/pull/1)  
 
 ## Overview  
 A colleague has abruptly left the team to pursue a career as a novelist.
@@ -39,7 +39,7 @@ Your job is to find the needles in the haystack.
 This project is under the MIT License.
 
 ## Acknowledgements / Resources  
-- none
+- Fakey.py was imported from Demo file from class repo
 
 ## Version History  
 - 1.0.0 20200604  
